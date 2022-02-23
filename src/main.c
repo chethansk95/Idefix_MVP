@@ -53,7 +53,7 @@
 #include "Totalizer.h"
 
 /**************************************** macro defination *************************/
-#define CONFIG_WIFI_SSID     "WIFI_NAME"
+#define CONFIG_WIFI_SSID     "WIFI_NAMe"
 #define CONFIG_WIFI_PASSWORD "ROUTER_PASSWORD"
 #define CONFIG_BROKER_URL    "MQTT_URL"                   //"mqtt://test.mosquitto.org/"
 #define I2C_MASTER_SCL_IO           22                        /*!< GPIO number used for I2C master clock */
